@@ -1,5 +1,5 @@
 ---
-title: "First Note"
+title: "First Page"
 date: 2020-05-18
 ---
 
