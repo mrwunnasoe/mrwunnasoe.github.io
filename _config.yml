@@ -9,7 +9,7 @@ description: "ဝဏစိုး"
 github_username:  mrwunnasoe
 facebook_username: wunna.soe.31
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: fale # set to false to remove excerpts on the homepage
 
 ---
 title: "first-page"
