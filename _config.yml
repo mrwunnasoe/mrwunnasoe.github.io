@@ -1,1 +1,17 @@
 theme: jekyll-theme-architect
+# theme: minima
+title: Wunna Soe Notes
+author: Wunna Soe
+email: wunnasoe.hws@gmail.com
+# description: "Genius is 1% inspiration and 99% perspiration.    **Thomas Edison**    Great accomplishments depend not so much on ingenuity as on hard work."
+
+# social links
+github_username:  mrwunnasoe
+facebook_username: wunna.soe.31
+
+show_excerpts: false # set to false to remove excerpts on the homepage
+
+---
+title: "First Note"
+date: 2020-05-18
+---
