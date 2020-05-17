@@ -1,5 +1,5 @@
-theme: jekyll-theme-architect
-# theme: minima
+# theme: jekyll-theme-architect
+theme: minima
 title: Wunna Soe Notes
 author: Wunna Soe
 email: wunnasoe.hws@gmail.com
@@ -9,7 +9,7 @@ email: wunnasoe.hws@gmail.com
 github_username:  mrwunnasoe
 facebook_username: wunna.soe.31
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
 
 ---
 title: "first-page"
